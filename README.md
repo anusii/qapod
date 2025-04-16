@@ -1,2 +1,3 @@
-# qapod
-Simple Question and Answer Pod
+# QA Pod
+
+A simple QA Pod app
