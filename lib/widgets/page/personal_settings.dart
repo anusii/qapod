@@ -1,6 +1,6 @@
 /// PersonalSettings widget used in QA App.
 ///
-// Time-stamp: <Wednesday 2025-04-16 20:29:39 +1000 Graham Williams>
+// Time-stamp: <Wednesday 2025-04-16 20:58:07 +1000 Graham Williams>
 ///
 /// Copyright (C) 2025, Software Innovation Institute, ANU.
 ///
@@ -369,7 +369,7 @@ class _PersonalSettingsState extends State<PersonalSettings> {
                 ),
                 const Gap(5),
                 const Text(
-                    'If you are experiencing any issues with the app, or need any support please contact, hanna.suominen@anu.edu.au'),
+                    'If you are experiencing any issues with the app, or need any support please contact, support@example.com'),
               ],
             ),
           ),
