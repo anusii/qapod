@@ -9,10 +9,10 @@ git clone git@github.com:anusii/qapod.git
 cd qapod
 ```
 
-Set up you platform support:
+Set up your platform support:
 
 ```
-flutter create --platform=windows .
+flutter create --platform=windows,linux,macos .
 ```
 
 Run the app:
